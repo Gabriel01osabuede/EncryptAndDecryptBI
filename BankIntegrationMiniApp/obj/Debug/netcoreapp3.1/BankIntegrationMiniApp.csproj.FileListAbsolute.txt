@@ -1,0 +1,16 @@
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\bin\Debug\netcoreapp3.1\BankIntegrationMiniApp.exe
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\bin\Debug\netcoreapp3.1\BankIntegrationMiniApp.deps.json
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\bin\Debug\netcoreapp3.1\BankIntegrationMiniApp.runtimeconfig.json
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\bin\Debug\netcoreapp3.1\BankIntegrationMiniApp.runtimeconfig.dev.json
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\bin\Debug\netcoreapp3.1\BankIntegrationMiniApp.dll
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\bin\Debug\netcoreapp3.1\BankIntegrationMiniApp.pdb
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\obj\Debug\netcoreapp3.1\BankIntegrationMiniApp.csproj.AssemblyReference.cache
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\obj\Debug\netcoreapp3.1\BankIntegrationMiniApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\obj\Debug\netcoreapp3.1\BankIntegrationMiniApp.AssemblyInfoInputs.cache
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\obj\Debug\netcoreapp3.1\BankIntegrationMiniApp.AssemblyInfo.cs
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\obj\Debug\netcoreapp3.1\BankIntegrationMiniApp.csproj.CoreCompileInputs.cache
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\obj\Debug\netcoreapp3.1\BankIntegrationMiniApp.csproj.CopyComplete
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\obj\Debug\netcoreapp3.1\BankIntegrationMiniApp.dll
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\obj\Debug\netcoreapp3.1\BankIntegrationMiniApp.pdb
+C:\Users\Sir AnDRE\AlgoPythonCourse\BankIntegrationMiniApp\BankIntegrationMiniApp\obj\Debug\netcoreapp3.1\BankIntegrationMiniApp.genruntimeconfig.cache
